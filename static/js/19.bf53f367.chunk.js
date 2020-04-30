@@ -1,0 +1,2 @@
+(this.webpackJsonpsmartswap=this.webpackJsonpsmartswap||[]).push([[19],{1060:function(a,r,n){"use strict";n.r(r),n.d(r,"default",(function(){return i}));var t=n(0),s=n.n(t),e=n(963);function i(a){var r=a.initialCurrency,n=a.params;return s.a.createElement(e.a,{initialCurrency:r,params:n})}}}]);
+//# sourceMappingURL=19.bf53f367.chunk.js.map
